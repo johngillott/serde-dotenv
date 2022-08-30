@@ -1,8 +1,15 @@
 [package]
 name = "serde-dotenv"
 version = "0.1.0"
+authors = ["John Gillott <8356592+johngillott@users.noreply.github.com>"]
+license = "MIT/Apache-2.0"
+description = "A dotenv serializer for serde"
+homepage = "https://docs.rs/serde_dotenv"
+documentation = "https://docs.rs.serde_dotenv"
+repository = "https://github.com/johngillott/serde-dotenv"
+keywords = ["serde", "serialization", "dotenv"]
+categories = ["encoding"]
+readme = "README.md"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
